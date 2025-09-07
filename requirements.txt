@@ -14,3 +14,4 @@ openpyxl==3.1.5  # in case you handle Excel files
 
 # Optional: better progress bars, performance, etc.
 tqdm==4.66.5
+matplotlib
